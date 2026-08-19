@@ -57,7 +57,7 @@ async function cargarDatos() {
     try {
 
         const respuesta =
-            await fetch("content.json");
+            await fetch("Content.json");
 
         if (!respuesta.ok) {
 
