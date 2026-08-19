@@ -44,7 +44,7 @@
         {
             "nombre": "Blockchain",
             "icono": "⛓️",
-            "imagen": "Blockchain.jpg",
+            "imagen": "BlockChain.jpg",
             "descripcion": "Una tecnología de registro distribuido que almacena información mediante bloques encadenados criptográficamente, asegurando que los datos compartidos sean permanentes, públicos y verificables por los integrantes de la red."
         }
     ],
