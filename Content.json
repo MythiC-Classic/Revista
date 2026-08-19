@@ -26,7 +26,7 @@
         {
             "nombre": "Descentralización",
             "icono": "🌐",
-            "imagen": "Fotos/Descentralizacion.jpg",
+            "imagen": "Descentralizacion.jpg",
             "descripcion": "Es un modelo estructural donde el control, la gestión y el almacenamiento de los datos se distribuyen equitativamente entre múltiples participantes de una red, eliminando la necesidad de depender de una única autoridad central."
         },
         {
@@ -38,13 +38,13 @@
         {
             "nombre": "Inteligencia Artificial",
             "icono": "🤖",
-            "imagen": "Fotos/IA.jpg",
+            "imagen": "IA.jpg",
             "descripcion": "Una rama de la tecnología dedicada a desarrollar sistemas computacionales capaces de procesar volúmenes masivos de datos, reconocer patrones complejos y ejecutar tareas analíticas que tradicionalmente requerían de la intervención humana."
         },
         {
             "nombre": "Blockchain",
             "icono": "⛓️",
-            "imagen": "Fotos/Blockchain.jpg",
+            "imagen": "Blockchain.jpg",
             "descripcion": "Una tecnología de registro distribuido que almacena información mediante bloques encadenados criptográficamente, asegurando que los datos compartidos sean permanentes, públicos y verificables por los integrantes de la red."
         }
     ],
