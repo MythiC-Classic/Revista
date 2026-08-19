@@ -32,7 +32,7 @@
         {
             "nombre": "Internet de las Cosas",
             "icono": "📡",
-            "imagen": "Fotos/IoT.jpg",
+            "imagen": "IoT.jpg",
             "descripcion": "Una tecnología orientada a conectar objetos cotidianos y dispositivos físicos a Internet, dotándolos de la capacidad de interactuar con su entorno, recopilar métricas y transmitir datos en tiempo real."
         },
         {
