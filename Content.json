@@ -1,0 +1,61 @@
+{
+    "caracteristicas": [
+        {
+            "nombre": "Descentralización",
+            "icono": "🌐",
+            "aporte": "Distribuye el poder de decisión y la información, lo que reduce drásticamente los puntos únicos de falla, disminuye la dependencia de corporaciones centralizadas y fomenta una participación mucho más activa y equitativa de los usuarios."
+        },
+        {
+            "nombre": "Internet de las Cosas",
+            "icono": "📡",
+            "aporte": "Conecta sistemas físicos con el entorno digital, permitiendo la automatización de procesos complejos y la creación de experiencias inteligentes que facilitan la toma de decisiones basada en datos precisos."
+        },
+        {
+            "nombre": "Inteligencia Artificial",
+            "icono": "🤖",
+            "aporte": "Otorga capacidades avanzadas de análisis y automatización a las plataformas digitales, permitiendo que los servicios se adapten de forma personalizada a las necesidades y comportamientos específicos de los usuarios."
+        },
+        {
+            "nombre": "Blockchain",
+            "icono": "⛓️",
+            "aporte": "Garantiza un entorno de absoluta transparencia y seguridad informática, facilitando la trazabilidad de las transacciones y devolviendo a las personas el control legítimo sobre su propia información."
+        }
+    ],
+
+    "tecnologias": [
+        {
+            "nombre": "Descentralización",
+            "icono": "🌐",
+            "imagen": "Fotos/Descentralizacion.jpg",
+            "descripcion": "Es un modelo estructural donde el control, la gestión y el almacenamiento de los datos se distribuyen equitativamente entre múltiples participantes de una red, eliminando la necesidad de depender de una única autoridad central."
+        },
+        {
+            "nombre": "Internet de las Cosas",
+            "icono": "📡",
+            "imagen": "Fotos/IoT.jpg",
+            "descripcion": "Una tecnología orientada a conectar objetos cotidianos y dispositivos físicos a Internet, dotándolos de la capacidad de interactuar con su entorno, recopilar métricas y transmitir datos en tiempo real."
+        },
+        {
+            "nombre": "Inteligencia Artificial",
+            "icono": "🤖",
+            "imagen": "Fotos/IA.jpg",
+            "descripcion": "Una rama de la tecnología dedicada a desarrollar sistemas computacionales capaces de procesar volúmenes masivos de datos, reconocer patrones complejos y ejecutar tareas analíticas que tradicionalmente requerían de la intervención humana."
+        },
+        {
+            "nombre": "Blockchain",
+            "icono": "⛓️",
+            "imagen": "Fotos/Blockchain.jpg",
+            "descripcion": "Una tecnología de registro distribuido que almacena información mediante bloques encadenados criptográficamente, asegurando que los datos compartidos sean permanentes, públicos y verificables por los integrantes de la red."
+        }
+    ],
+    "citas": [
+        "La tecnología transforma la manera en que imaginamos el futuro.",
+        "La Web 3.0 busca convertir al usuario en una parte activa de Internet.",
+        "La innovación comienza cuando una idea encuentra la tecnología adecuada.",
+        "El futuro de Internet será más inteligente, conectado y descentralizado.",
+        "La inteligencia artificial está cambiando la manera en que desarrollamos tecnología.",
+        "La información es poderosa cuando las personas pueden controlarla.",
+        "La tecnología no solamente crea herramientas; también crea nuevas posibilidades.",
+        "Internet continúa evolucionando y nosotros evolucionamos con él."
+    ]
+}
